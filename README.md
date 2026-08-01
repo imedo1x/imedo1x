@@ -25,12 +25,7 @@ I enjoy turning ideas and designs into responsive Flutter apps — especially wh
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,figma,git,github,dotnet,cs&perline=9" alt="Flutter, Dart, Firebase, SQLite, Figma, Git, GitHub, .NET and C#" />
 </p>
 
-## GitHub activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imedo1x&show_icons=true&theme=transparent&hide_border=true&title_color=54C5F8&icon_color=54C5F8" alt="Mahmood's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedo1x&layout=compact&theme=transparent&hide_border=true&title_color=54C5F8" alt="Mahmood's most-used languages" />
-</div>
+## Contribution streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=imedo1x&theme=transparent&hide_border=true&ring=54C5F8&fire=54C5F8&currStreakLabel=54C5F8" alt="Mahmood's GitHub contribution streak" />
