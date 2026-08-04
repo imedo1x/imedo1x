@@ -28,7 +28,11 @@ I enjoy turning ideas and designs into responsive Flutter apps — especially wh
 ## Contribution streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imedo1x&theme=vue&hide_border=false" alt="Mahmood's GitHub contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=imedo1x&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=imedo1x&theme=vue&hide_border=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imedo1x&theme=vue&hide_border=false" alt="Mahmood's GitHub contribution streak" />
+  </picture>
 </div>
 
 ---
