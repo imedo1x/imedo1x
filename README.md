@@ -7,7 +7,7 @@
 I enjoy turning ideas and designs into responsive Flutter apps — especially when the work involves custom widgets, thoughtful UI, and smooth user experiences.
 
 [![GitHub](https://img.shields.io/badge/GitHub-imedo1x-181717?style=flat-square&logo=github)](https://github.com/imedo1x)
-[![X](https://img.shields.io/badge/X-%40MK__appdev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MK_appdev)
+[![](https://img.shields.io/badge/X-%40MK__appdev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MK_appdev)
 [![Instagram](https://img.shields.io/badge/Instagram-imedo1-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/imedo1)
 ![Profile views](https://komarev.com/ghpvc/?username=imedo1x&style=flat-square&color=02569B)
 
